@@ -28,7 +28,7 @@
         },
         "quadtree": {
             "title": "Dwell time",
-            "sub": "Average period spent",
+            "sub": "Average time spent",
             "data": [
                 { "day": "2023-09-11", "value": 4.2 },
                 { "day": "2023-09-12", "value": 6.0 },
@@ -374,7 +374,7 @@
                         "value": [0, 0, 0, 0]
                     }
                 ],
-                "bench": {},
+                "bench": { "week": 300, "month": 354, "year": 280 },
                 "unit": "ppl"
             }
         }
